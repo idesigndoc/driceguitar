@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="styles.css" />
-<nav class="navbar">
-  <ul class="nav-links>
-      <li><a href="#">releases</a></li>
-      <li><a href="#">shows</a></li>
-      <li><a href="#">video</a></li>
-      <li><a href="#">contact</a></li>
-  </ul>
-</nav>
+header {
+  padding: 80px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
+
+header h1 {
+  font-size: 40px;
+}
 
