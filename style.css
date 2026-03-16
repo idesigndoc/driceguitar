@@ -4,9 +4,15 @@ body {
   margin: 0;
   padding: 0;
         }
+h1 (
+textalign: center;
+)
+h2 (
+textalign: center;
+)
 header {
   padding: 80px;
-    font-size: 40px;
+  font-size: 40px;
   text-align: center;
   background-color: #6495ED;
 }
