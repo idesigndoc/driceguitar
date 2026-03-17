@@ -24,6 +24,7 @@ nav a:hover {
   color: #ffcc00;
 }
 main {
+  background-color: #F8F8FF; /* ghost white */
   max-width: 900px;
   margin: auto;
   padding: 20px;
