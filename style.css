@@ -23,4 +23,28 @@ nav a {
 nav a:hover {
   color: #ffcc00;
 }
-  
+main {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+.blog-post {
+  background: white;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.blog-post h2 {
+  margin-top: 0;
+}
+.blog-post small {
+  color: gray;
+}
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 20px;
+}  
