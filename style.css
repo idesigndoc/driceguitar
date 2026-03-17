@@ -29,17 +29,17 @@ main {
   margin: auto;
   padding: 20px;
 }
-.blog-post {
+.entry {
   background: white;
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
-.blog-post h2 {
+.entry h2 {
   margin-top: 0;
 }
-.blog-post small {
+.entry small {
   color: gray;
 }
 footer {
