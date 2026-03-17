@@ -1,37 +1,26 @@
 body {
-  background-color: #007ba7; /* cerulean blue */
   font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
         }
-h1 (
-textalign: center;
-)
-h2 (
-textalign: center;
-)
 header {
-  padding: 80px;
-  font-size: 40px;
-  text-align: center;
-  background-color: #6495ED;
+  background-color: #007ba7; /* cerulean blue */
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-navbar {
-   overflow: hidden;
-   background-color: #b2beb5;
+.logo {
+  font-size: 1.5em;
+  font-weight: bold;
 }
-navbar a {
-   float: left;
-   display: block;
-   color: white;
-   text-align: center;
-   padding: 14px 20px;
-   text-decoration: none;
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 1em;
 }
-navbar a.right {
-   float: right;
+nav a:hover {
+  color: #ffcc00;
 }
-navbar a:hover {
-   background-color: #ddd;
-   color: black;
-}
+  
