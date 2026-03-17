@@ -30,7 +30,7 @@ main {
   padding: 20px;
 }
 .entry {
-  background: white;
+  background: #FFFFF0; /* ivory */
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 8px;
